@@ -1,0 +1,10 @@
+D:\userData\Development\Development\Tutorials\C-Sharp-NoteTaking\NoteTaker\NoteTaker\bin\Debug\NoteTaker.exe.config
+D:\userData\Development\Development\Tutorials\C-Sharp-NoteTaking\NoteTaker\NoteTaker\bin\Debug\NoteTaker.exe
+D:\userData\Development\Development\Tutorials\C-Sharp-NoteTaking\NoteTaker\NoteTaker\bin\Debug\NoteTaker.pdb
+D:\userData\Development\Development\Tutorials\C-Sharp-NoteTaking\NoteTaker\NoteTaker\obj\Debug\NoteTaker.csproj.AssemblyReference.cache
+D:\userData\Development\Development\Tutorials\C-Sharp-NoteTaking\NoteTaker\NoteTaker\obj\Debug\NoteTaker.NoteTakingForm.resources
+D:\userData\Development\Development\Tutorials\C-Sharp-NoteTaking\NoteTaker\NoteTaker\obj\Debug\NoteTaker.Properties.Resources.resources
+D:\userData\Development\Development\Tutorials\C-Sharp-NoteTaking\NoteTaker\NoteTaker\obj\Debug\NoteTaker.csproj.GenerateResource.cache
+D:\userData\Development\Development\Tutorials\C-Sharp-NoteTaking\NoteTaker\NoteTaker\obj\Debug\NoteTaker.csproj.CoreCompileInputs.cache
+D:\userData\Development\Development\Tutorials\C-Sharp-NoteTaking\NoteTaker\NoteTaker\obj\Debug\NoteTaker.exe
+D:\userData\Development\Development\Tutorials\C-Sharp-NoteTaking\NoteTaker\NoteTaker\obj\Debug\NoteTaker.pdb
